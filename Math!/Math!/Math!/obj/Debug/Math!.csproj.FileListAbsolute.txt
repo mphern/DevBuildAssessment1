@@ -1,0 +1,6 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Math!\Math!\Math!\bin\Debug\Math!.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Math!\Math!\Math!\bin\Debug\Math!.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Math!\Math!\Math!\bin\Debug\Math!.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Math!\Math!\Math!\obj\Debug\Math!.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Math!\Math!\Math!\obj\Debug\Math!.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Math!\Math!\Math!\obj\Debug\Math!.pdb

@@ -1,0 +1,7 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Choose your own adventure\ChooseOwnAdventure\ChooseOwnAdventure\bin\Debug\ChooseOwnAdventure.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Choose your own adventure\ChooseOwnAdventure\ChooseOwnAdventure\bin\Debug\ChooseOwnAdventure.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Choose your own adventure\ChooseOwnAdventure\ChooseOwnAdventure\bin\Debug\ChooseOwnAdventure.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Choose your own adventure\ChooseOwnAdventure\ChooseOwnAdventure\obj\Debug\ChooseOwnAdventure.csprojAssemblyReference.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Choose your own adventure\ChooseOwnAdventure\ChooseOwnAdventure\obj\Debug\ChooseOwnAdventure.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Choose your own adventure\ChooseOwnAdventure\ChooseOwnAdventure\obj\Debug\ChooseOwnAdventure.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\Choose your own adventure\ChooseOwnAdventure\ChooseOwnAdventure\obj\Debug\ChooseOwnAdventure.pdb

@@ -1,0 +1,6 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\I'd like to buy a vowel\IdLikeToBuyAVowel\IdLikeToBuyAVowel\bin\Debug\IdLikeToBuyAVowel.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\I'd like to buy a vowel\IdLikeToBuyAVowel\IdLikeToBuyAVowel\bin\Debug\IdLikeToBuyAVowel.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\I'd like to buy a vowel\IdLikeToBuyAVowel\IdLikeToBuyAVowel\bin\Debug\IdLikeToBuyAVowel.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\I'd like to buy a vowel\IdLikeToBuyAVowel\IdLikeToBuyAVowel\obj\Debug\IdLikeToBuyAVowel.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\I'd like to buy a vowel\IdLikeToBuyAVowel\IdLikeToBuyAVowel\obj\Debug\IdLikeToBuyAVowel.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 1\I'd like to buy a vowel\IdLikeToBuyAVowel\IdLikeToBuyAVowel\obj\Debug\IdLikeToBuyAVowel.pdb
